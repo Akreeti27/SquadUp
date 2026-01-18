@@ -63,3 +63,5 @@ service cloud.firestore {
   }
 }
 ```
+
+live app link = https://squadupx.netlify.app/

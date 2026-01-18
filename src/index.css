@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional small utility tweaks */
+html, body, #root { height: 100%; }
+body { @apply bg-gradient-to-b from-sky-600 via-sky-400 to-white text-gray-900; }

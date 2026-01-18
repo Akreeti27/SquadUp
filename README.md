@@ -63,5 +63,3 @@ service cloud.firestore {
   }
 }
 ```
-
-If you want, I can also add automated rules deployment and a sample test account to help you try it out.
